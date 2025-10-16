@@ -273,7 +273,8 @@ header button{
 }
 
 .about{
-  padding:0 5% 72px 5%;
+  padding:0 5% 0 5%;
+  background-color: black;
   border-top:1px solid rgba(255,255,255,0.03)
 }
 
@@ -1222,6 +1223,7 @@ main {
 .foo a:hover {
   text-decoration: underline;
 }
+
 
 
 
