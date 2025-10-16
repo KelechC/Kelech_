@@ -9,7 +9,7 @@
 }
 
 body{
-  background: #000;
+  background-color: black;
 }
 
 /* Header Styling */
@@ -1223,4 +1223,5 @@ main {
 .foo a:hover {
   text-decoration: underline;
 }
+
 
